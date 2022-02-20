@@ -1,11 +1,10 @@
 const { Command } = require('commander');
-
 const {
   listContacts,
-  addContact,
   getContactById,
   removeContact,
-} = require('./contacts.js');
+  addContact,
+} = require('./controllers/contacts/index.js');
 
 const program = new Command();
 

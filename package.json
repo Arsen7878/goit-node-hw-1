@@ -1,7 +1,7 @@
 {
   "name": "goit-node-hw-1",
   "version": "1.0.0",
-  "description": "",
+  "description": "- [action-add-and-action-list] (https://ibb.co/513h7Pv)\r - [action-delete-and-action-list] (https://ibb.co/7VpMPNx)\r - [action-get] (https://ibb.co/LJLNg8r)\r - [action-list] (https://ibb.co/xDFdPLt)",
   "main": "index.js",
   "type": "commonjs",
   "dependencies": {
@@ -12,11 +12,16 @@
   },
   "scripts": {
     "start": "node index.js",
-    "start:dev": "nodemon index.js"
+    "dev": "nodemon index.js"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Arsen7878/goit-node-hw-1/issues"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arsen7878/goit-node-hw-1.git"
+  },
+  "homepage": "https://github.com/Arsen7878/goit-node-hw-1#readme"
 }
